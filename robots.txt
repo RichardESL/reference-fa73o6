@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RichardESL.github.io/reference-fa73o6/sitemap.xml
